@@ -1,4 +1,4 @@
 numpy
 pandas
 dtale
-flask-ngrok==0.0.25
+flask-ngrok==0.0.26
