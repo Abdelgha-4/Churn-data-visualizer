@@ -1,4 +1,3 @@
 numpy
 pandas
 dtale
-git+https://github.com/gstaff/flask-ngrok@master
