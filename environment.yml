@@ -3,6 +3,5 @@ dependencies:
   - dtale==1.59.1
   - nbserverproxy
   - pip
-  - pandas
   - pip:
     - jupyter-server-proxy
